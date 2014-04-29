@@ -6,7 +6,7 @@ snake case to camel case
 
 ## Installation
 
-npm install require-all-to-camel
+    npm install require-all-to-camel
 
 
 ## Example
