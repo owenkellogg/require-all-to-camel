@@ -1,0 +1,25 @@
+{
+  "name": "require-all-to-camel",
+  "version": "1.0.0",
+  "description": "Require all files in a directory, converting names from snake to camel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenzeiler/require-all-to-camel"
+  },
+  "author": "Steven Zeiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenzeiler/require-all-to-camel/issues"
+  },
+  "homepage": "https://github.com/stevenzeiler/require-all-to-camel",
+  "dependencies": {
+    "require-all": "0.0.8"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
